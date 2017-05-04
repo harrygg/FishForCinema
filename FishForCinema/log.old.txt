@@ -1,0 +1,237 @@
+2017-05-04 09:13:02.914000 | INFO | --------------------------------------------
+2017-05-04 09:13:02.914000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=462
+2017-05-04 09:13:04.194000 | INFO | Response code 200
+2017-05-04 09:13:04.195000 | WARNING | No trailer found!
+2017-05-04 09:13:04.226000 | WARNING | No IMDB id found!
+2017-05-04 09:13:04.226000 | INFO | Adding movie to DB: Време за чувства 
+2017-05-04 09:13:04.226000 | INFO | Success!
+2017-05-04 09:13:04.226000 | INFO | Sleeping for 19 seconds
+2017-05-04 09:13:23.225000 | INFO | --------------------------------------------
+2017-05-04 09:13:23.225000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=463
+2017-05-04 09:13:24.053000 | INFO | Response code 200
+2017-05-04 09:13:24.053000 | WARNING | No trailer found!
+2017-05-04 09:13:24.053000 | WARNING | No IMDB id found!
+2017-05-04 09:13:24.069000 | INFO | Adding movie to DB: Време на насилие 
+2017-05-04 09:13:24.069000 | INFO | Success!
+2017-05-04 09:13:24.069000 | INFO | Sleeping for 34 seconds
+2017-05-04 09:13:58.071000 | INFO | --------------------------------------------
+2017-05-04 09:13:58.071000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=464
+2017-05-04 09:13:59.466000 | INFO | Response code 200
+2017-05-04 09:13:59.467000 | WARNING | No IMDB id found!
+2017-05-04 09:13:59.467000 | INFO | Adding movie to DB: Времето на вълка 
+2017-05-04 09:13:59.498000 | INFO | Success!
+2017-05-04 09:13:59.498000 | INFO | Sleeping for 33 seconds
+2017-05-04 09:14:32.511000 | INFO | --------------------------------------------
+2017-05-04 09:14:32.511000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=465
+2017-05-04 09:14:33.246000 | INFO | Response code 404
+2017-05-04 09:14:33.246000 | ERROR | Exiting!
+2017-05-04 09:14:33.246000 | INFO | --------------------------------------------
+2017-05-04 09:14:33.246000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=466
+2017-05-04 09:14:34.466000 | INFO | Response code 200
+2017-05-04 09:14:34.477000 | WARNING | No IMDB id found!
+2017-05-04 09:14:34.479000 | INFO | Adding movie to DB: Всички мои познати 
+2017-05-04 09:14:34.506000 | INFO | Success!
+2017-05-04 09:14:34.506000 | INFO | Sleeping for 16 seconds
+2017-05-04 09:14:50.491000 | INFO | --------------------------------------------
+2017-05-04 09:14:50.491000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=467
+2017-05-04 09:14:51.840000 | INFO | Response code 200
+2017-05-04 09:14:51.841000 | WARNING | No IMDB id found!
+2017-05-04 09:14:51.841000 | INFO | Adding movie to DB: Всички невидими деца 
+2017-05-04 09:14:51.873000 | INFO | Success!
+2017-05-04 09:14:51.873000 | INFO | Sleeping for 29 seconds
+2017-05-04 09:15:20.877000 | INFO | --------------------------------------------
+2017-05-04 09:15:20.877000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=468
+2017-05-04 09:15:21.520000 | INFO | Response code 404
+2017-05-04 09:15:21.520000 | ERROR | Exiting!
+2017-05-04 09:15:21.536000 | INFO | --------------------------------------------
+2017-05-04 09:15:21.536000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=469
+2017-05-04 09:15:22.285000 | INFO | Response code 404
+2017-05-04 09:15:22.285000 | ERROR | Exiting!
+2017-05-04 09:15:22.285000 | INFO | --------------------------------------------
+2017-05-04 09:15:22.285000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=470
+2017-05-04 09:15:23.284000 | INFO | Response code 404
+2017-05-04 09:15:23.284000 | ERROR | Exiting!
+2017-05-04 09:15:23.284000 | INFO | --------------------------------------------
+2017-05-04 09:15:23.284000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=471
+2017-05-04 09:15:24.100000 | INFO | Response code 200
+2017-05-04 09:15:24.101000 | WARNING | No trailer found!
+2017-05-04 09:15:24.101000 | INFO | Adding movie to DB: Всичко е любов 
+2017-05-04 09:15:24.132000 | INFO | Success!
+2017-05-04 09:15:24.132000 | INFO | Sleeping for 32 seconds
+2017-05-04 09:15:56.143000 | INFO | --------------------------------------------
+2017-05-04 09:15:56.143000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=472
+2017-05-04 09:15:57.205000 | INFO | Response code 200
+2017-05-04 09:15:57.205000 | WARNING | No writers found!
+2017-05-04 09:15:57.205000 | WARNING | No cast found!
+2017-05-04 09:15:57.205000 | WARNING | No trailer found!
+2017-05-04 09:15:57.205000 | WARNING | No IMDB id found!
+2017-05-04 09:15:57.206000 | INFO | Adding movie to DB: Всичко е раста! 
+2017-05-04 09:15:57.206000 | INFO | Success!
+2017-05-04 09:15:57.206000 | INFO | Sleeping for 20 seconds
+2017-05-04 09:16:17.222000 | INFO | --------------------------------------------
+2017-05-04 09:16:17.222000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=473
+2017-05-04 09:16:17.801000 | INFO | Response code 404
+2017-05-04 09:16:17.801000 | ERROR | Exiting!
+2017-05-04 09:16:17.816000 | INFO | --------------------------------------------
+2017-05-04 09:16:17.816000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=474
+2017-05-04 09:16:18.627000 | INFO | Response code 200
+2017-05-04 09:16:18.627000 | WARNING | No writers found!
+2017-05-04 09:16:18.628000 | WARNING | No IMDB id found!
+2017-05-04 09:16:18.628000 | INFO | Adding movie to DB: Всичко за любовта 
+2017-05-04 09:16:18.660000 | INFO | Success!
+2017-05-04 09:16:18.660000 | INFO | Sleeping for 27 seconds
+2017-05-04 09:16:45.672000 | INFO | --------------------------------------------
+2017-05-04 09:16:45.672000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=475
+2017-05-04 09:16:46.691000 | INFO | Response code 200
+2017-05-04 09:16:46.691000 | WARNING | No writers found!
+2017-05-04 09:16:46.692000 | WARNING | No Parental rating found!
+2017-05-04 09:16:46.692000 | INFO | Adding movie to DB: Всичко за майка ми 
+2017-05-04 09:16:46.692000 | INFO | Success!
+2017-05-04 09:16:46.692000 | INFO | Sleeping for 25 seconds
+2017-05-04 09:17:11.695000 | INFO | --------------------------------------------
+2017-05-04 09:17:11.695000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=476
+2017-05-04 09:17:12.585000 | INFO | Response code 200
+2017-05-04 09:17:12.601000 | WARNING | No IMDB id found!
+2017-05-04 09:17:12.601000 | INFO | Adding movie to DB: Всичко или нищо 
+2017-05-04 09:17:12.616000 | INFO | Success!
+2017-05-04 09:17:12.616000 | INFO | Sleeping for 34 seconds
+2017-05-04 09:17:46.628000 | INFO | --------------------------------------------
+2017-05-04 09:17:46.628000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=477
+2017-05-04 09:17:47.846000 | INFO | Response code 200
+2017-05-04 09:17:47.847000 | WARNING | No IMDB id found!
+2017-05-04 09:17:47.847000 | INFO | Adding movie to DB: Всичко лошо се връща 
+2017-05-04 09:17:47.847000 | INFO | Success!
+2017-05-04 09:17:47.847000 | INFO | Sleeping for 22 seconds
+2017-05-04 09:18:09.864000 | INFO | --------------------------------------------
+2017-05-04 09:18:09.864000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=478
+2017-05-04 09:18:10.474000 | INFO | Response code 404
+2017-05-04 09:18:10.474000 | ERROR | Exiting!
+2017-05-04 09:18:10.474000 | INFO | --------------------------------------------
+2017-05-04 09:18:10.474000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=479
+2017-05-04 09:18:11.737000 | INFO | Response code 200
+2017-05-04 09:18:11.738000 | WARNING | No IMDB id found!
+2017-05-04 09:18:11.738000 | INFO | Adding movie to DB: Всичко се прее...цака,  Пийт Тонг 
+2017-05-04 09:18:11.771000 | INFO | Success!
+2017-05-04 09:18:11.771000 | INFO | Sleeping for 23 seconds
+2017-05-04 09:18:34.774000 | INFO | --------------------------------------------
+2017-05-04 09:18:34.774000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=480
+2017-05-04 09:18:36.272000 | INFO | Response code 200
+2017-05-04 09:18:36.273000 | INFO | Adding movie to DB: Всяка една неделя 
+2017-05-04 09:18:36.304000 | INFO | Success!
+2017-05-04 09:18:36.304000 | INFO | Sleeping for 31 seconds
+2017-05-04 09:19:07.318000 | INFO | --------------------------------------------
+2017-05-04 09:19:07.318000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=481
+2017-05-04 09:19:07.958000 | INFO | Response code 404
+2017-05-04 09:19:07.958000 | ERROR | Exiting!
+2017-05-04 09:19:07.958000 | INFO | --------------------------------------------
+2017-05-04 09:19:07.958000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=482
+2017-05-04 09:19:08.629000 | INFO | Response code 404
+2017-05-04 09:19:08.629000 | ERROR | Exiting!
+2017-05-04 09:19:08.629000 | INFO | --------------------------------------------
+2017-05-04 09:19:08.629000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=483
+2017-05-04 09:19:09.301000 | INFO | Response code 404
+2017-05-04 09:19:09.301000 | ERROR | Exiting!
+2017-05-04 09:19:09.301000 | INFO | --------------------------------------------
+2017-05-04 09:19:09.301000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=484
+2017-05-04 09:19:09.894000 | INFO | Response code 404
+2017-05-04 09:19:09.894000 | ERROR | Exiting!
+2017-05-04 09:19:09.894000 | INFO | --------------------------------------------
+2017-05-04 09:19:09.894000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=485
+2017-05-04 09:19:10.487000 | INFO | Response code 404
+2017-05-04 09:19:10.503000 | ERROR | Exiting!
+2017-05-04 09:19:10.503000 | INFO | --------------------------------------------
+2017-05-04 09:19:10.503000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=486
+2017-05-04 09:19:11.314000 | INFO | Response code 200
+2017-05-04 09:19:11.315000 | WARNING | No writers found!
+2017-05-04 09:19:11.315000 | WARNING | No trailer found!
+2017-05-04 09:19:11.315000 | WARNING | No IMDB id found!
+2017-05-04 09:19:11.346000 | INFO | Adding movie to DB: Възвишена изневяра 
+2017-05-04 09:19:11.409000 | INFO | Success!
+2017-05-04 09:19:11.409000 | INFO | Sleeping for 30 seconds
+2017-05-04 09:19:41.415000 | INFO | --------------------------------------------
+2017-05-04 09:19:41.415000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=487
+2017-05-04 09:19:42.292000 | INFO | Response code 200
+2017-05-04 09:19:42.292000 | WARNING | No writers found!
+2017-05-04 09:19:42.308000 | WARNING | No trailer found!
+2017-05-04 09:19:42.308000 | WARNING | No IMDB id found!
+2017-05-04 09:19:42.308000 | INFO | Adding movie to DB: Въздушен удар 
+2017-05-04 09:19:42.323000 | INFO | Success!
+2017-05-04 09:19:42.323000 | INFO | Sleeping for 34 seconds
+2017-05-04 09:20:16.324000 | INFO | --------------------------------------------
+2017-05-04 09:20:16.324000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=488
+2017-05-04 09:20:17.183000 | INFO | Response code 200
+2017-05-04 09:20:17.183000 | WARNING | No writers found!
+2017-05-04 09:20:17.198000 | INFO | Adding movie to DB: Въздушния Бъд: Шампионска лига 
+2017-05-04 09:20:17.214000 | INFO | Success!
+2017-05-04 09:20:17.214000 | INFO | Sleeping for 35 seconds
+2017-05-04 09:20:52.218000 | INFO | --------------------------------------------
+2017-05-04 09:20:52.218000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=489
+2017-05-04 09:20:53.187000 | INFO | Response code 200
+2017-05-04 09:20:53.202000 | WARNING | No Parental rating found!
+2017-05-04 09:20:53.202000 | INFO | Adding movie to DB: Въздушният Бъд: Бейзболна лига 
+2017-05-04 09:20:53.218000 | INFO | Success!
+2017-05-04 09:20:53.218000 | INFO | Sleeping for 35 seconds
+2017-05-04 09:21:28.220000 | INFO | --------------------------------------------
+2017-05-04 09:21:28.220000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=490
+2017-05-04 09:21:29.063000 | INFO | Response code 200
+2017-05-04 09:21:29.063000 | WARNING | No writers found!
+2017-05-04 09:21:29.079000 | WARNING | No IMDB id found!
+2017-05-04 09:21:29.079000 | INFO | Adding movie to DB: Въздушният Бъд: Волейболна лига 
+2017-05-04 09:21:29.094000 | INFO | Success!
+2017-05-04 09:21:29.094000 | INFO | Sleeping for 26 seconds
+2017-05-04 09:21:55.103000 | INFO | --------------------------------------------
+2017-05-04 09:21:55.103000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=491
+2017-05-04 09:21:55.994000 | INFO | Response code 404
+2017-05-04 09:21:55.994000 | ERROR | Exiting!
+2017-05-04 09:21:55.994000 | INFO | --------------------------------------------
+2017-05-04 09:21:55.994000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=492
+2017-05-04 09:21:56.633000 | INFO | Response code 404
+2017-05-04 09:21:56.633000 | ERROR | Exiting!
+2017-05-04 09:21:56.633000 | INFO | --------------------------------------------
+2017-05-04 09:21:56.633000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=493
+2017-05-04 09:21:57.289000 | INFO | Response code 404
+2017-05-04 09:21:57.289000 | ERROR | Exiting!
+2017-05-04 09:21:57.289000 | INFO | --------------------------------------------
+2017-05-04 09:21:57.289000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=494
+2017-05-04 09:21:57.929000 | INFO | Response code 404
+2017-05-04 09:21:57.929000 | ERROR | Exiting!
+2017-05-04 09:21:57.929000 | INFO | --------------------------------------------
+2017-05-04 09:21:57.929000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=495
+2017-05-04 09:21:58.713000 | INFO | Response code 200
+2017-05-04 09:21:58.713000 | WARNING | No writers found!
+2017-05-04 09:21:58.729000 | WARNING | No IMDB id found!
+2017-05-04 09:21:58.729000 | INFO | Adding movie to DB: Възходът на Феникса 
+2017-05-04 09:21:58.744000 | INFO | Success!
+2017-05-04 09:21:58.744000 | INFO | Sleeping for 25 seconds
+2017-05-04 09:22:23.756000 | INFO | --------------------------------------------
+2017-05-04 09:22:23.756000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=496
+2017-05-04 09:22:24.631000 | INFO | Response code 200
+2017-05-04 09:22:24.646000 | WARNING | No IMDB id found!
+2017-05-04 09:22:24.646000 | INFO | Adding movie to DB: Вълкодав 
+2017-05-04 09:22:24.662000 | INFO | Success!
+2017-05-04 09:22:24.662000 | INFO | Sleeping for 21 seconds
+2017-05-04 09:22:45.675000 | INFO | --------------------------------------------
+2017-05-04 09:22:45.675000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=497
+2017-05-04 09:22:46.505000 | INFO | Response code 200
+2017-05-04 09:22:46.520000 | WARNING | No writers found!
+2017-05-04 09:22:46.520000 | WARNING | No trailer found!
+2017-05-04 09:22:46.520000 | WARNING | No IMDB id found!
+2017-05-04 09:22:46.520000 | INFO | Adding movie to DB: Вълците на Уолстрийт 
+2017-05-04 09:22:46.536000 | INFO | Success!
+2017-05-04 09:22:46.536000 | INFO | Sleeping for 10 seconds
+2017-05-04 09:22:56.549000 | INFO | --------------------------------------------
+2017-05-04 09:22:56.549000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=498
+2017-05-04 09:22:57.396000 | INFO | Response code 200
+2017-05-04 09:22:57.411000 | WARNING | No trailer found!
+2017-05-04 09:22:57.411000 | WARNING | No IMDB id found!
+2017-05-04 09:22:57.411000 | INFO | Adding movie to DB: Вълчицата 
+2017-05-04 09:22:57.427000 | INFO | Success!
+2017-05-04 09:22:57.427000 | INFO | Sleeping for 25 seconds
+2017-05-04 09:23:22.440000 | INFO | --------------------------------------------
+2017-05-04 09:23:22.440000 | INFO | Requesting url for scrapping: http://www.cinefish.bg/movie.php?id=499
+2017-05-04 09:23:23.470000 | INFO | Response code 200
+2017-05-04 09:23:23.486000 | WARNING | No trailer found!
+2017-05-04 09:23:23.486000 | WARNING | No IMDB id found!
+2017-05-04 09:23:23.486000 | INFO | Adding movie to DB: Вълшебната флейта 
+2017-05-04 09:23:23.486000 | INFO | Success!
+2017-05-04 09:23:23.486000 | INFO | Sleeping for 29 seconds
