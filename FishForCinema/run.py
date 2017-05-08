@@ -8,7 +8,7 @@ import db
 ##############################
 ## SETTINGS
 ##############################
-MAX_SCRAPPED_PAGES = 1000
+MAX_SCRAPPED_PAGES = 10000
 MAX_TIMEOUT_BETWEEN_SCRAPS = 15
 MIN_TIMEOUT_BETWEEN_SCRAPS = 5
 
