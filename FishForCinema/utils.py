@@ -16,10 +16,9 @@ except: pass
 
 host = base64.b64decode("aHR0cDovL3d3dy5jaW5lZmlzaC5iZw==")
 url = host + "/movie.php?id=%s"
-#soup = BeautifulSoup(r.text)
 
 
-def scrap_page(id):  
+def scrap_page(id):
   film = Film()
   log("--------------------------------------------")
   log("Requesting url for scrapping: %s" % url % id)
@@ -28,7 +27,7 @@ def scrap_page(id):
   if r.status_code < 200 or r.status_code > 400:
     log("Exiting!", 2)
     return None
-  
+
   html = r.text.encode('utf-8')
 
   ### ID
@@ -53,7 +52,7 @@ def scrap_page(id):
     else:
       film.title = title_text
       titleOriginal = title_text
-      
+
     ### Title original
     try: film.titleOriginal = titleOriginal.lstrip().rstrip()
     except: 
