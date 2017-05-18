@@ -11,7 +11,7 @@ import db
 MAX_SCRAPPED_PAGES = 4000
 MAX_TIMEOUT_BETWEEN_SCRAPS = 10
 MIN_TIMEOUT_BETWEEN_SCRAPS = 5
-MAX_ERRORS = 3
+MAX_ERRORS = 6
 
 print "###################################"
 print " Fish4Cinema scrapper by Harry_GG "
@@ -37,6 +37,10 @@ while(id < max and errors <= MAX_ERRORS):
   sleep_time = randint(MIN_TIMEOUT_BETWEEN_SCRAPS, MAX_TIMEOUT_BETWEEN_SCRAPS)
   log("Sleeping for %s seconds" % sleep_time)
   sleep(sleep_time)
+  #reset any errors since we stop only after back to back errors
+  errors = 0
 
-
-log("Max scrabbed pages %s reached" % MAX_SCRAPPED_PAGES)
+if errors == MAX_ERRORS+1:
+  log("Max back to back errors reached")
+else:
+  log("Max scrabbed pages %s reached" % MAX_SCRAPPED_PAGES)
